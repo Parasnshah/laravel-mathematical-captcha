@@ -8,4 +8,9 @@
 </p>
 
 ## Laravel captcha
+
+## Installation 
+
+composer require haruncpi/laravel-simple-captcha
+
 <img src="https://github.com/Parasnshah/laravel-mathematical-captcha/blob/master/public/captcha.PNG">
