@@ -13,4 +13,8 @@
 
 composer require haruncpi/laravel-simple-captcha
 
+## Usages
+
+{!!getCaptchaBox()!!}
+
 <img src="https://github.com/Parasnshah/laravel-mathematical-captcha/blob/master/public/captcha.PNG">
